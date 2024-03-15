@@ -16,7 +16,7 @@
 
 ## Bra YouTubers för .NET
 
-* [Tim Corey - Geting started med C#](https://www.youtube.com/@IAmTimCorey)
+* [Tim Corey - Getting started med C#](https://www.youtube.com/@IAmTimCorey)
 * [Patrick God - Blazor](https://www.youtube.com/@PatrickGod)
 * [Nick Chapsas - Avancerad .NET](https://www.youtube.com/@nickchapsas)
 * [Milan Jovanovic - Avancerad .NET](https://www.youtube.com/@MilanJovanovicTech)
